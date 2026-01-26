@@ -29,11 +29,11 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/ваш-username/ascii-art-generator.git
-cd ascii-art-generator
+https://github.com/AlexzonX/Aski_Art.git
+cd Aski_Art
 
 # Установите необходимые библиотеки
-pip install pyfiglet
+pip install pyfiglet --break-system-packages #--break-system-packages если без venv
 # Для цветного вывода (опционально)
-pip install colorama
+pip install colorama --break-system-packages #--break-system-packages если без venv
 
